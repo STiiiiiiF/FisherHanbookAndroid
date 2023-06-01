@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/id_fish"
+            android:icon="@mipmap/ic_fish"
+            android:title="@string/menu_fish" />
+        <item
+            android:id="@+id/id_bait"
+            android:icon="@mipmap/ic_bait"
+            android:title="@string/menu_bait" />
+        <item
+            android:id="@+id/id_tackle"
+            android:icon="@mipmap/ic_tackle"
+            android:title="@string/menu_tackle" />
+        <item
+            android:id="@+id/id_lure"
+            android:icon="@mipmap/ic_lure"
+            android:title="@string/menu_lure" />
+    </group>
+
+    <item android:title="Разное">
+<menu>
+    <item
+        android:id="@+id/id_stories"
+        android:icon="@mipmap/ic_stories"
+        android:title="@string/menu_stories"/>
+    <item
+        android:id="@+id/id_advice"
+        android:icon="@mipmap/ic_advice"
+        android:title="@string/menu_advice"/>
+
+
+</menu>
+
+
+
+    </item>
+</menu>

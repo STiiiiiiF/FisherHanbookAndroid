@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fish_array">
+        <item>Карп</item>
+        <item>Щука</item>
+        <item>Сом</item>
+        <item>Осетр</item>
+        <item>Налим</item>
+    </string-array>
+    <string-array name="bait_array">
+        <item>Червяк</item>
+        <item>Кукуруза</item>
+        <item>Хлеб</item>
+        <item>Опарыш</item>
+        <item>Муха</item>
+    </string-array>
+    <string-array name="tacle_array">
+        <item>Удочка</item>
+        <item>Леска</item>
+        <item>Поплавок</item>
+        <item>Грузила</item>
+        <item>Крючок</item>
+    </string-array>
+    <string-array name="lure_array">
+        <item>Сухари</item>
+        <item>Отруби</item>
+        <item>Жмых</item>
+        <item>Сухое молоко</item>
+        <item>Мотыль</item>
+    </string-array>
+    <string-array name="story_array">
+        <item>Старик и море</item>
+        <item>Рыбак и щука</item>
+        <item>На Дону</item>
+        <item>Случай на рыбалке</item>
+        <item>Тихий омут</item>
+    </string-array>
+    <string-array name="advice_array">
+        <item>Советы по прикормке</item>
+        <item>Сезон рыбалки</item>
+        <item>На что клюёт</item>
+        <item>Большой улов</item>
+        <item>Лучшие удочки</item>
+    </string-array>
+</resources>
